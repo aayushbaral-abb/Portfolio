@@ -224,7 +224,7 @@ section h2 {
 #submit-message { 
             margin-top: 15px; 
             font-weight: bold; 
-            color: blue; 
+            color: rgba(255, 0, 0, 0.644); 
             display: none;
 }
 
