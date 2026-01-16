@@ -133,6 +133,13 @@ section h2 {
 }
 
 .about-section p {
+    text-align: justify;
+    max-width: 800px;
+    margin: 0 auto 15px;
+}
+
+.about-section h4 {
+    font-weight: normal;
     text-align: center;
     max-width: 800px;
     margin: 0 auto 15px;
